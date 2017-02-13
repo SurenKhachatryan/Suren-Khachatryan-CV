@@ -1,3 +1,3 @@
 # Suren-Khachatryan-CV
 Suren-Khachatryan-CV
-!"(Suren-Khachatryan-CV/Suren_Khachatryan_CV.PDF)"
+![](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/blob/master/Suren%20Khachatryan%20CV.png)
