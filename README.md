@@ -24,14 +24,14 @@
   **FES House - 2011**
 
 ## PROFESSIONAL EXPERIENCE 
-**Microsoft Innovation Center Armenia_____________________________________________________________________Yerevan, Armenia**
+**Microsoft Innovation Center Armenia_________________________________________________________________________Yerevan, Armenia**
 
-_Coding Bootcamp (6 weeks)_ ___________________________________________________________________September, 2009 - May, 2012 
+_Coding Bootcamp (6 weeks)_ _________________________________________________________________________September, 2009 - May, 2012 
 - **C#, OOP principles and architectural patterns**
 ## EDUCATION
-**Microsoft Innovation Center Armenia___________________________________________________________________Yerevan, Armenia**
+**Microsoft Innovation Center Armenia__________________________________________________________________________Yerevan, Armenia**
 
-_Dental technician_ __________________________________________________________________________September, 2009 - May, 2012
+_Dental technician_ __________________________________________________________________________________September, 2009 - May, 2012
 ## OTHER SKILLS
 
 - **Languages:** Armenian (native), Russian (upper-intermediate), English (elementary).
