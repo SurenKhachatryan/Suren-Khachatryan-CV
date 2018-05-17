@@ -25,6 +25,7 @@
 
 ## PROFESSIONAL EXPERIENCE 
 **Microsoft Innovation Center Armenia___________________________________________________Yerevan, Armenia**
+
 _Coding Bootcamp (6 weeks)_ ________________________________________________September, 2009 - May, 2012 
 - **C#, OOP principles and architectural patterns**
 ## EDUCATION
