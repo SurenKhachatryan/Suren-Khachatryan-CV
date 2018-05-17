@@ -1,10 +1,10 @@
-__________________________________________________________________________________________________________**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.PDF)**
+________________________________________________________________________________________________________**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.PDF)**
 
 ### SUREN KHACHATRYAN
 
 **6/1 Davit Malyan**
 
-**Yerevan, Armeniaм**
+**Yerevan, Armenia**
 
 **(+374) 94021404**
 
