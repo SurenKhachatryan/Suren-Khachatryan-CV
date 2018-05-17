@@ -35,6 +35,5 @@ _Dental technician_ ____________________________________________________________
 ## OTHER SKILLS
 
 - **Languages:** Armenian (native), Russian (upper-intermediate), English (elementary).
-- **Personal qualities:** good communication skills; organized and goal-oriented; quick 
-
+- **Personal qualities:** good communication skills; organized and goal-oriented; quick
 learner who adapts easily to new processes, the latest technologies and trends. 
