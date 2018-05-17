@@ -30,9 +30,11 @@ _Coding Bootcamp (6 weeks)_ ________________________________________________Sept
 - **C#, OOP principles and architectural patterns**
 ## EDUCATION
 **Microsoft Innovation Center Armenia___________________________________________________Yerevan, Armenia**
+
 _Dental technician_ ____________________________________________________________September, 2009 - May, 2012
 ## OTHER SKILLS
 
 - **Languages:** Armenian (native), Russian (upper-intermediate), English (elementary).
 - **Personal qualities:** good communication skills; organized and goal-oriented; quick 
+
 learner who adapts easily to new processes, the latest technologies and trends. 
