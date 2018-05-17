@@ -1,9 +1,13 @@
 ### SUREN KHACHATRYAN
 
 **6/1 Davit Malyan**
+
 **Yerevan, Armeniaм**
+
 **(+374) 94021404**
+
 **surench94@gmail.com**
+
 ## PROGRAMMING SKILLS
 
 - **C#, OOP**
