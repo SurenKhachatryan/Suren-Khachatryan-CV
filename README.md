@@ -17,8 +17,10 @@
 ## TRAINING COURSES  
 
 - **С# (Level I and II)**
+
  **Babylon Learning Center - 2016**                                                                             
 - **Programming fundamentals with  C#**
+
 **Microsoft Innovation Center- 2015**
 - **Front-end web development**
 **FES House - 2011**
