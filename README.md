@@ -31,7 +31,7 @@ ________________________________________________________________________________
 _Coding Bootcamp (6 weeks)_ _______________________________________________________________________September, 2009 - May, 2012 
 - **C#, OOP principles and architectural patterns**
 ## EDUCATION
-**Microsoft Innovation Center Armenia__________________________________________________________________________Yerevan, Armenia**
+**Yerevan State Base Medical College__________________________________________________________________________Yerevan, Armenia**
 
 _Dental technician_ __________________________________________________________________________________September, 2009 - May, 2012
 ## OTHER SKILLS
