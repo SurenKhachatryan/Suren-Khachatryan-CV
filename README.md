@@ -13,6 +13,7 @@ ________________________________________________________________________________
 ## PROGRAMMING SKILLS
 
 - **C#, OOP**
+- **MSSQL**
 - **Web development (HTML)**
 
  [https://github.com/SurenKhachatryan](https://github.com/SurenKhachatryan)
