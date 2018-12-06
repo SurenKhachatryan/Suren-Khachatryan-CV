@@ -1,4 +1,4 @@
-________________________________________________________________________________________________________**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.PDF)**
+________________________________________________________________________________________________________**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/blob/master/Suren_Khachatryan_CV.pdf)**
 
 ### SUREN KHACHATRYAN
 
