@@ -1,4 +1,4 @@
-________________________________________________________________________________________________________**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/blob/master/Suren_Khachatryan_CV.pdf)**
+**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/blob/master/Suren_Khachatryan_CV.pdf)**
 <h3 align="Center">SUREN KHACHATRYAN</h3>
 <h4 align="Center">6/1 Davit Malyan</h4>
 <h4 align="Center">Yerevan, Armenia</h4>
