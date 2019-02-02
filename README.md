@@ -13,7 +13,9 @@ ________________________________________________________________________________
 ## PROGRAMMING SKILLS
 
 - **C#, OOP**
-- **MSSQL**
+- **MSSQL** 
+- **Entity Framework**
+- **ADO.NET**
 - **Web development (HTML)**
 
  [https://github.com/SurenKhachatryan](https://github.com/SurenKhachatryan)
