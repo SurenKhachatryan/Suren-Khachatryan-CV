@@ -1,11 +1,9 @@
 ________________________________________________________________________________________________________**Download - CV [DOC](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/raw/master/Suren_Khachatryan_CV.doc) | [PDF](https://github.com/SurenKhachatryan/Suren-Khachatryan-CV/blob/master/Suren_Khachatryan_CV.pdf)**
-<p align="Center">
-<a>SUREN KHACHATRYAN</a></br>
-<a>6/1 Davit Malyan</a></br>
-<a>Yerevan, Armenia</a></br>
-<a>(+374) 94021404</a></br>
-<a>surench94@gmail.com</a>
-</p>
+<h3 align="Center">SUREN KHACHATRYAN</h3>
+<h4 align="Center">6/1 Davit Malyan</h4>
+<h4 align="Center">Yerevan, Armenia</h4>
+<h4 align="Center">(+374) 94021404</h4>
+<h4 align="Center">surench94@gmail.com</h4>
 
 ## PROGRAMMING SKILLS
 
